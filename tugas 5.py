@@ -52,4 +52,4 @@ if __name__ == "__main__":
     mhs2.tambah_nilai(60.0)
     mhs2.tambah_nilai(65.0)
     print(mhs2)
-    print(f"Rata-rata: {mhs2.rata_nilai()}, Status: {mhs2.status()}")
+    print(f"Rata-rata: {mhs2.rata_nilai()}, Status: {mhs2.status()}") 
