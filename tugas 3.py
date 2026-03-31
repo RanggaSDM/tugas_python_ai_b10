@@ -27,3 +27,4 @@ koleksi_pokemon.pop()
 input_nama = input("Masukkan nama: ")
 input_umur = input("Masukkan umur: ")
 print("Halo, nama saya " + input_nama + " dan umur saya " + input_umur + " tahun.")
+ 
