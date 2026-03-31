@@ -1,0 +1,22 @@
+=== RINGKASAN STATISTIK NUMPY ===
+rata_rata: 73.70
+median: 71.00
+std_deviasi: 11.71
+nilai_min: 57.00
+nilai_max: 92.00
+
+=== RINGKASAN DATAFRAME ===
+Jumlah Baris: 5
+Lulus: 3
+Tidak Lulus: 2
+
+=== RINGKASAN OOP GRADEBOOK ===
+Rata-rata Kelas: 75.8
+Persentase Kelulusan: 60.0%
+Detail Data:
+    nama  nim  nilai       status
+0   Andi  001     88        LULUS
+1   Budi  002     78        LULUS
+2  Citra  003     64  TIDAK LULUS
+3   Dewi  004     92        LULUS
+4    Eka  005     57  TIDAK LULUS
