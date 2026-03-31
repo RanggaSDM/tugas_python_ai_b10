@@ -79,4 +79,4 @@ if __name__ == "__main__":
     print(f"Rata-rata: {my_gb.average()}")
     print(f"Pass Rate: {my_gb.pass_rate()}%")
     my_gb.save_summary(file_path)
-    print(f"\nLaporan telah disimpan di {file_path}")
+    print(f"\nLaporan telah disimpan di {file_path}") 
